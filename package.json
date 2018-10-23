@@ -1,23 +1,23 @@
 {
-  "name": "grunt-terser",
+  "name": "@orange-games/grunt-terser",
   "description": "Grunt plugin for A JavaScript parser, mangler/compressor and beautifier toolkit for ES6+.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/adascal/grunt-terser",
+  "version": "0.1.1",
+  "homepage": "https://github.com/orange-games/grunt-terser",
   "author": {
     "name": "Alexandr Dascal",
     "email": "Alexandr.Dascal@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/adascal/grunt-terser.git"
+    "url": "git://github.com/orange-games/grunt-terser.git"
   },
   "bugs": {
-    "url": "https://github.com/adascal/grunt-terser/issues"
+    "url": "https://github.com/orange-games/grunt-terser/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/adascal/grunt-terser/blob/master/LICENSE-MIT"
+      "url": "https://github.com/orange-games/grunt-terser/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
